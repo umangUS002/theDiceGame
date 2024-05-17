@@ -12,7 +12,7 @@
     margin-top: 30px;
     margin-bottom: 30px;
     @media (max-width: 390px) {
-
+        display: inline-block;
         margin: auto;
       }
 }
@@ -69,12 +69,14 @@ h3{
         }
 }
 .first{
+
     @media (max-width: 390px) {
-        height: 90px;
-        width: 90px;
+        height: 190px;
+        width: 190px;
         margin-top: 0px;
         margin-right: 10px;
         margin-bottom: 30px;
+
         }
 }
 .bn5 {
