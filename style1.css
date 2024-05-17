@@ -2,6 +2,9 @@
     width: 70%;
     text-align: center;
     margin: auto;
+    @media (max-width: 990px) {
+      height: 100%;
+    }
 }
 .player1{
     text-align: center;
@@ -11,8 +14,8 @@
     margin-right: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
-    @media (max-width: 390px) {
-        display: inline-block;
+    @media (max-width: 990px) {
+        display: block;
         margin: auto;
       }
 }
@@ -25,7 +28,7 @@ footer{
     font-size: 1.1rem;
     color: blueviolet;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    @media (max-width: 390px) {
+    @media (max-width: 990px) {
         font-size: .9rem;
         margin-top: 36 px;
         }
@@ -36,7 +39,7 @@ h1{
     color:blueviolet;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     border: 5px solid aquamarine;
-    @media (max-width: 390px) {
+    @media (max-width: 990px) {
         font-size: 3rem;
         margin-top: 10px;
         }
@@ -53,7 +56,7 @@ h2{
     margin: 0px;
     margin-bottom: 0px;
     color: CAF4FF;
-    @media (max-width: 390px) {
+    @media (max-width: 990px) {
         font-size: 2rem;
         margin-bottom: 30px;
         }
@@ -64,13 +67,13 @@ h3{
     font-size: 1.8rem;
     font-family: cursive;
     margin: 0;
-    @media (max-width: 390px) {
+    @media (max-width: 990px) {
         font-size: 1rem;
         }
 }
 .first{
 
-    @media (max-width: 390px) {
+    @media (max-width: 990px) {
         height: 190px;
         width: 190px;
         margin-top: 0px;
@@ -93,8 +96,8 @@ h3{
     font-family:cursive ;
     
 
-@media (max-width: 390px) {
-    font-size: 1.2rem;
+@media (max-width: 990px) {
+    font-size: 1.5rem;
     margin-top: 00px;
     }
 }
