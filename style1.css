@@ -41,7 +41,7 @@ h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     border: 5px solid aquamarine;
     @media (max-width: 1530px) {
-      font-size: 8rem;
+      font-size: 7.9rem;
       margin-top: 70px;
     }
 }
