@@ -4,7 +4,7 @@
     margin: auto;
     @media (max-width: 1530px) {
       
-      width: 60%;
+      width: 70%;
     }
 }
 .player1{
@@ -16,8 +16,8 @@
     margin-top: 30px;
     margin-bottom: 30px;
     @media (max-width: 1530px) {
-        display: block;
-        margin: 100px;
+        display: inline-block;
+        margin-left: 50px;
       }
 }
 body{
@@ -30,7 +30,7 @@ footer{
     color: blueviolet;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     @media (max-width: 1530px) {
-     font-size: 2rem;
+     font-size: 1.5rem;
      margin-top: 100px;
     }
 }
@@ -52,17 +52,17 @@ h1{
     color: 5AB2FF;
     @media (max-width: 1530px) {
       font-size: 3.2rem;
-    margin: 40px;
+    margin: 20px;
     }
 }
 .first{
 
   @media (max-width: 1530px) {
-      height: 590px;
-      width: 590px;
-      margin-top: 10px;
+      height: 390px;
+      width: 390px;
+      margin-top: 0px;
       
-      margin-bottom: 100px;
+      margin-bottom: 50px;
 
       }
 }
@@ -73,7 +73,7 @@ h2{
     color: CAF4FF;
     @media (max-width: 1530px) {
       font-size: 4.5rem;
-    margin: 80px;
+    margin: 50px;
     }
 }
 
@@ -84,7 +84,7 @@ h3{
     margin: 0;
     @media (max-width: 1530px) {
       font-size: 3rem;
-    margin: 40px;
+    margin: 20px;
     }
     
 }
@@ -103,8 +103,8 @@ h3{
     font-family:cursive ;
     @media (max-width: 1530px) {
       font-size: 4rem;
-    margin: 100px;
-    margin-bottom: 100px;
+    margin: 70px;
+    margin-bottom: 70px;
     }
 
 
