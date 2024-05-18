@@ -12,7 +12,7 @@
     margin-right: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
-    @media (max-width: 1330px) {
+    @media (max-width: 1730px) {
         display: block;
         margin: 100px;
       }
