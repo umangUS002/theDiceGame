@@ -32,7 +32,7 @@ footer{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     @media (max-width: 1530px) {
      font-size: .8rem;
-     margin-top: 140px;
+     margin-top: 120px;
     }
 }
 h1{
@@ -73,9 +73,9 @@ h2{
     margin-bottom: 0px;
     color: CAF4FF;
     @media (max-width: 1530px) {
-      font-size: 5.3rem;
-    margin-top: 40px;
-    margin-bottom: 30px;
+      font-size: 5.1rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
     }
 }
 
