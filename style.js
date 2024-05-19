@@ -1,4 +1,11 @@
 
+window.onload = myFunction1();
+
+function myFunction1(){
+    document.querySelector("h2").innerHTML = "The game to decide the winner among two contestants";
+}
+
+
 document.querySelector("a").onclick= myFunction();
 
 function myFunction(){

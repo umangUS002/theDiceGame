@@ -52,7 +52,7 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: 5AB2FF;
     @media (max-width: 1530px) {
-      font-size: 3.3rem;
+      font-size: 3.5rem;
     margin: 20px;
     }
 }
@@ -63,7 +63,7 @@ h1{
       width: 380px;
       margin-top: 0px;
       
-      margin-bottom: 135px;
+      margin-bottom: 155px;
 
       }
 }
@@ -89,6 +89,13 @@ h3{
     margin: 20px;
     }
     
+}
+.leo{
+  @media (max-width: 1530px) {
+    height: 30px;
+    width: 35px;
+  
+  }
 }
 
 .bn5 {
