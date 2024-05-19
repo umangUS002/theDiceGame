@@ -27,12 +27,14 @@ body{
 footer{
     margin-top: 40px;
     text-align: center;
+    justify-content: baseline;
     font-size: 1.1rem;
     color: 5AB2FF;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     @media (max-width: 1530px) {
      font-size: .8rem;
      margin-top: 200px;
+     justify-content: baseline;
     }
 }
 h1{
