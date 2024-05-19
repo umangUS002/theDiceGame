@@ -52,7 +52,7 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: 5AB2FF;
     @media (max-width: 1530px) {
-      font-size: 4rem;
+      font-size: 3.9rem;
     margin: 20px;
     }
 }
