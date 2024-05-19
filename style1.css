@@ -28,11 +28,11 @@ footer{
     margin-top: 40px;
     text-align: center;
     font-size: 1.1rem;
-    color: blueviolet;
+    color: 5AB2FF;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     @media (max-width: 1530px) {
      font-size: .8rem;
-     margin-top: 180px;
+     margin-top: 200px;
     }
 }
 h1{
